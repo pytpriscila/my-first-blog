@@ -25,7 +25,9 @@ SECRET_KEY = '%ca(vsutr-e9t*0krv6%shlm$5fb2d-9=b!ta9%(ws53mqz#0d'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['pytpriscila.pythonanywhere.com',
+		  'localhost',
+		]
 
 
 # Application definition
